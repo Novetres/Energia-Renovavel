@@ -1,0 +1,99 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+
+body{
+    background-image: url(img/fundo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+p{
+
+    color: white;
+
+font-family: 'Merriweather', serif;
+font-size: 15px;
+
+
+}
+
+a{
+
+    font-family: 'Merriweather', serif;
+    font-size: 15px;
+
+
+}
+
+.nav-link:hover {
+
+    font-size: larger;
+ text-shadow:  5px 5px 5px black;
+
+ 
+
+}
+
+
+
+
+  .texthome{
+    font-family: 'Merriweather', serif;
+
+
+
+} 
+
+#bannermenu{
+    height: 70px;
+
+}
+
+h1{
+
+font-family: 'Merriweather', serif;
+font-size: 30px;
+text-shadow: 1px 1px 1px black;
+    color: #198cff;} 
+
+    h3{
+
+        font-family: 'Merriweather', serif;
+    
+        text-shadow: 1px 1px 1px black;
+            color: #198cff;
+
+            }
+
+
+            h5{
+
+                font-family: 'Merriweather', serif;
+            
+                text-shadow: 1px 1px 1px black;
+                    color: #2271b3;
+                font-weight: bold;} 
+       
+
+        #rodape2{
+            font-family: 'Merriweather', serif;
+            font-size: 15px;
+        }
+
+
+        .card-text1{
+
+            font-family: 'Merriweather', serif;
+    
+                color: #2271b3;
+                font-size: 13px;
+        }
+
+        label{
+            
+            font-family: 'Merriweather', serif;
+            color: white;
+
+        }
