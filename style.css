@@ -77,6 +77,13 @@ text-shadow: 1px 1px 1px black;
                 font-weight: bold;} 
        
 
+                #topo {
+                    position: fixed;
+                    bottom: 50px;
+                    right: 30px;
+          
+                
+                }
         #rodape2{
             font-family: 'Merriweather', serif;
             font-size: 15px;
@@ -91,9 +98,39 @@ text-shadow: 1px 1px 1px black;
                 font-size: 13px;
         }
 
-        label{
+        .form-check-label{
             
             font-family: 'Merriweather', serif;
             color: white;
+            font-size: 12px;
+
+        }
+
+label{
+     font-family: 'Merriweather', serif;
+            color: white;
+
+}
+       
+
+        .btnhome{
+            position: absolute;
+            bottom: 150px;
+            right: 30px;
+
+        } 
+
+         .btnhome:hover{
+         
+         background-color:#198cff;
+         border-radius: 5px;
+         color: white;
+        } 
+    
+
+        .menuinicio{
+background-color: whitesmoke;
+margin-top: 4px;
+
 
         }
