@@ -115,22 +115,42 @@ label{
 
         .btnhome{
             position: absolute;
-            bottom: 150px;
-            right: 30px;
+            bottom: 70px;
+            right: 55px;
 
         } 
-
-         .btnhome:hover{
-         
-         background-color:#198cff;
-         border-radius: 5px;
-         color: white;
-        } 
-    
 
         .menuinicio{
+            height: 400px;
 background-color: whitesmoke;
 margin-top: 4px;
-
+background-image: url(img/fundoinicio.jpg);
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
 
         }
+
+        .card-img1{
+
+            height: 500px;
+        }
+
+        .link{
+            color: #2271b3;
+        }
+
+    /*     .um{
+            color: #2271b3;;
+        }
+ */
+
+        .card1{
+      border-radius: 7px;
+
+ background-color:  white;
+        }   
+
+       .badge{
+               font-family: 'Merriweather', serif;
+               background-color:  #2271b3; }
